@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Kacper, I'm learning programming by 1 month, mainly front-end.</div>  
+### <div align="center">I'm Kacper, I'm learning programming, mainly front-end.</div>  
   
 
-- 🔭 I’m currently working on   
+- 👀 I’m interested in calistenics and personal development.
   
 
-- 🌱 I’m currently learning JavaScript.  
+- 🌱 I’m currently learning JavaScript, HTML and CSS.  
   
 
 - 📫 How to reach me: kdurawa25@gmail.com
