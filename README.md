@@ -42,8 +42,6 @@
 
 </td><td valign="top" width="50%">
 
-<br></br>  
-
 
 ## Connect with me  
 <div align="center">
